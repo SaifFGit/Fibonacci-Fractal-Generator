@@ -1,1 +1,3 @@
-# Fibonacci_Fractal_Generator
+# Fibonacci Fractal Generator
+
+This code generates fibonacci fractals by computing fibonacci words
